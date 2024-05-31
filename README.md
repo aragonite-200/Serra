@@ -1,33 +1,26 @@
-:Author: aragonite200
-:Email:
+:Author: Simone Villa
 :Date: 18/07/2023
-:Revision: version 1.0
+:Revision: version 1.4
 
-= Project: Serra
+= Project: Serra automatizzata
 
 === Folder structure
 
 ....
- serra	                   => Arduino sketch folder
-  ├── serra.ino           => main Arduino file
-  ├── schematics.png      => an image of the required schematics
-  └── ReadMe.txt          => this file
+serra	=> Arduino sketch folder
+├── serra.ino	=> main Arduino file
+├── thingProprierties.h	=> Library for arduino cloud
+└── ReadMe.txt	=> this file
 ....
 
 
-=== Contributing
-To contribute to this project please contact: 
 
-=== BOM
-Add the bill of the materials you need for this project.
+=== Components
 
 |===
-| ID | Part name      		| Part number | Quantity
-|    | water level sensor   	|             | 1       
-|    | DHT22        		| 	      | 1        
-|    | terrain umidity sensor   | 	      | 1
-|    | pump   			|     	      | 1        
-|    | Arduino MKR 1010		|	      | 1
-
-
-
+| Part name	                  | Part number | Quantity
+| water level sensor	         |		           | 1
+| DHT22	                      |	            | 1
+| terrain umidity sensor      |	            | 1
+| pump	                       |		           | 1
+| Arduino MKR 1010            |	            | 1
