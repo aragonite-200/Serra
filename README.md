@@ -17,7 +17,6 @@
 
 === Contributing
 To contribute to this project please contact: 
-account@svilla.it
 
 === BOM
 Add the bill of the materials you need for this project.
